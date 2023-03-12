@@ -1,5 +1,6 @@
-## Hi there 👋
+## Posco AI & Bigdata academy 20th A2
 
+🙋‍ Records from academy in Pohang
 <!--
 
 **Here are some ideas to get you started:**
